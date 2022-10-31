@@ -1,15 +1,15 @@
 @import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;700&family=Poppins:wght@300;400;500;700");
 body {
   font-family: 'Roboto', sans-serif;
-  background-image: url("/images/fleur.jpg");
+  /* background-image: url("/images/300.gif"); */
   background-size: cover;
 }
 img {
-  width: 150px;
-  height: 150px;
-  border-radius: 50%;
+  width: 250px;
+  height: 250px;
 }
 h1 {
+  font-family: cursive;
   color:black;
   font-size: 32px;
   font-weight: 900;
@@ -34,4 +34,13 @@ h2 {
 .list {
   padding: 0;
   list-style: none;
+}
+
+p{
+  font-family: cursive;
+
+}
+
+.emoji{
+font-size: xx-large;
 }
